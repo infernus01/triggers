@@ -40,6 +40,20 @@ Further documentation available:
 
 ## Releases
 
+### v0.35 (LTS)
+
+- **Latest Release**: [v0.35.0][v0-35-0] (2026-02-13) ([docs][v0-35-0-docs], [examples][v0-35-0-examples])
+- **Initial Release**: [v0.35.0][v0-35-0] (2026-02-13)
+- **End of Life**: 2027-02-13
+- **Patch Releases**: [v0.35.0][v0-35-0]
+
+### v0.34 (LTS)
+
+- **Latest Release**: [v0.34.0][v0-34-0] (2025-09-07) ([docs][v0-34-0-docs], [examples][v0-34-0-examples])
+- **Initial Release**: [v0.34.0][v0-34-0] (2025-09-07)
+- **End of Life**: 2026-08-11
+- **Patch Releases**: [v0.34.0][v0-34-0]
+
 ### v0.33 (LTS)
 
 - **Latest Release**: [v0.33.0][v0-33-0] (2025-08-11) ([docs][v0-33-0-docs], [examples][v0-33-0-examples])
@@ -53,22 +67,6 @@ Further documentation available:
 - **Initial Release**: [v0.32.0][v0-32-0] (2025-05-07)
 - **End of Life**: 2026-05-07
 - **Patch Releases**: [v0.32.0][v0-32-0]
-
-### v0.31 (LTS)
-
-- **Latest Release**: [v0.31.0][v0-31-0] (2025-11-06) ([docs][v0-31-0-docs], [examples][v0-31-0-examples])
-- **Initial Release**: [v0.31.0][v0-31-0] (2025-02-05)
-- **End of Life**: 2026-02-05
-- **Patch Releases**: [v0.31.0][v0-31-0]
-
-
-### v0.30 (LTS)
-
-- **Latest Release**: [v0.30.0][v0-30-0] (2024-11-06) ([docs][v0-30-0-docs], [examples][v0-30-0-examples])
-- **Initial Release**: [v0.30.0][v0-30-0] (2024-11-06)
-- **End of Life**: 2025-11-05
-- **Patch Releases**: [v0.30.0][v0-30-0]
-
 
 ### Required Kubernetes Version
 
@@ -91,17 +89,15 @@ Older releases are EOL and available on [GitHub][tekton-triggers-releases].
 [release-notes-standards]:
     https://github.com/tektoncd/community/blob/main/standards.md#release-notes
 
-[v0-30-0]: https://github.com/tektoncd/triggers/releases/tag/v0.30.0
-[v0-30-0-docs]: https://github.com/tektoncd/triggers/tree/v0.30.0/docs#tekton-triggers
-[v0-30-0-examples]: https://github.com/tektoncd/triggers/tree/v0.30.0/examples#examples
-[v0-31-0]: https://github.com/tektoncd/triggers/releases/tag/v0.31.0
-[v0-31-0-docs]: https://github.com/tektoncd/triggers/tree/v0.31.0/docs#tekton-triggers
-[v0-31-0-examples]: https://github.com/tektoncd/triggers/tree/v0.31.0/examples#examples
 [v0-32-0]: https://github.com/tektoncd/triggers/releases/tag/v0.32.0
 [v0-32-0-docs]: https://github.com/tektoncd/triggers/tree/v0.32.0/docs#tekton-triggers
 [v0-32-0-examples]: https://github.com/tektoncd/triggers/tree/v0.32.0/examples#examples
 [v0-33-0]: https://github.com/tektoncd/triggers/releases/tag/v0.33.0
 [v0-33-0-docs]: https://github.com/tektoncd/triggers/tree/v0.33.0/docs#tekton-triggers
 [v0-33-0-examples]: https://github.com/tektoncd/triggers/tree/v0.33.0/examples#examples
-
-
+[v0-34-0]: https://github.com/tektoncd/triggers/releases/tag/v0.34.0
+[v0-34-0-docs]: https://github.com/tektoncd/triggers/tree/v0.34.0/docs#tekton-triggers
+[v0-34-0-examples]: https://github.com/tektoncd/triggers/tree/v0.34.0/examples#examples
+[v0-35-0]: https://github.com/tektoncd/triggers/releases/tag/v0.35.0
+[v0-35-0-docs]: https://github.com/tektoncd/triggers/tree/v0.35.0/docs#tekton-triggers
+[v0-35-0-examples]: https://github.com/tektoncd/triggers/tree/v0.35.0/examples#examples
